@@ -1,0 +1,132 @@
+{
+    "anims": [
+        {
+            "key": "jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "robotito",
+                    "frame": "jump000"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "jump001"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "jump002"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "jump003"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "jump004"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "jump005"
+                }
+            ]
+        },
+        {
+            "key": "walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "robotito",
+                    "frame": "walk000"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk001"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk002"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk003"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk004"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk005"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk006"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk007"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk008"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk009"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk010"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "walk011"
+                }
+            ]
+        },
+        {
+            "key": "idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "robotito",
+                    "frame": "idle000"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "idle002"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "idle003"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "idle004"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "idle005"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "idle006"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "idle007"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "idle008"
+                }
+            ]
+        }
+    ]
+}

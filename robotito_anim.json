@@ -1,0 +1,72 @@
+{
+    "anims": [
+        {
+            "key": "robotito_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "robotito",
+                    "frame": "tile012"
+                }
+            ]
+        },
+        {
+            "key": "robotito_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "robotito",
+                    "frame": "tile000"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile001"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile002"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile003"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile004"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile005"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile006"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile008"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile007"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile009"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile010"
+                },
+                {
+                    "key": "robotito",
+                    "frame": "tile011"
+                }
+            ]
+        }
+    ]
+}
